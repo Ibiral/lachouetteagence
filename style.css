@@ -362,6 +362,19 @@ a:hover {
     z-index: 2;
 }
 
+blockquote {
+    width: 65%;
+    margin: auto;
+    text-align: center;
+    padding: 10px 20px;
+    font-size: 1em;
+    border: none;
+}
+
+blockquote p {
+    font-size: 1.4em;
+}
+
 @media (min-width: 768px) {
     .site-navigation {
         position: absolute;
