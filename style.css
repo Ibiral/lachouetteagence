@@ -365,7 +365,7 @@ a:hover {
 }
 
 blockquote {
-    width: 65%;
+    width: 100%;
     margin: auto;
     text-align: center;
     padding: 10px 20px;
@@ -375,6 +375,11 @@ blockquote {
 
 blockquote p {
     font-size: 1.4em;
+}
+
+blockquote footer{
+    color: #575757;
+    font-size: 0.9em;
 }
 
 @media (min-width: 768px) {
@@ -790,7 +795,7 @@ h4 {
 }
 
 .tc-white {
-    color: #ff9e71!important;
+    color: #ffd7c5 !important;
 }
 
 .btn-atomic-tangerine {
