@@ -670,11 +670,12 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 700;
-    color: #333333!important;
+    color: #ffffff!important;
 }
 
 h3 {
     font-size: 1.1em;
+    color: #333333!important;
     text-transform: uppercase;
 }
 
@@ -701,7 +702,7 @@ h3 {
 }
 
 p {
-    font-size: 0.8em;
+    font-size: 0.9em;
     color: #575757!important;
 }
 
@@ -713,6 +714,9 @@ p {
 .h1 {
     font-size: 20px;
     font-family: "Open Sans";
+    color: #ffffff !important;
+    font-size: 2.5em;
+    font-weight: 700;
 }
 
 .cta-hero {
@@ -755,8 +759,8 @@ h4 {
     margin-top: 24px;
 }
 
-.black {
-    color: #2c2c2c!important;
+.white {
+    color: #ffffff!important;
     font-size: 0.9em;
 }
 
@@ -774,12 +778,13 @@ h4 {
 }
 
 .black-background {
-    background-color: rgba(165, 147, 99, 0.7);
+    background-color: rgb(47, 38, 26, 0.5);
     padding: 40px 40px 40px 40px;
 }
 
 .bold-link {
     font-weight: 900;
+    font-size: 1.5em;
     text-decoration: underline!important;
 }
 
@@ -792,16 +797,18 @@ h4 {
 }
 
 .bgc-atomic-tangerine {
-    background-color: #F3976C;
+    background-color: #DF3602;
 }
 
-.tc-white {
-    color: #ffd7c5 !important;
+.tc-white{
+    color: #ffffff !important;
+    font-size: 1.2em;
+    font-weight: 700;
 }
 
 .btn-atomic-tangerine {
-    background: #f7a680;
-    color: #484848!important;
+    background: #DF3602;
+    color: #ffffff!important;
 }
 
 .btn-atomic-tangerine:hover {
