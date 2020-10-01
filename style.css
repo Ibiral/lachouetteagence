@@ -670,12 +670,11 @@ label,
 a {
     font-family: "helvetica";
     font-weight: 700;
-    color: #ffffff!important;
+    color: #333333!important;
 }
 
 h3 {
     font-size: 1.1em;
-    color: #333333!important;
     text-transform: uppercase;
 }
 
