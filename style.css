@@ -737,8 +737,10 @@ p.adresse {
 }
 
 .social {
-    max-width: 400px;
-    margin: auto auto auto auto;
+    display: flex;
+    max-width: 50%;
+    margin: auto;
+    justify-content: space-evenly;
 }
 
 h2 {
